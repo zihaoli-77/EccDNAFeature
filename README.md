@@ -8,7 +8,7 @@ library(devtools)
 
 devtools::install_github("zihaoli-77/EccDNAFeature")
 
-### **in addition**
+### **In addition**
 
 If you want to get BPM and EDM, please go to the link below：
 https://github.com/Cuiwanxin1998/cfDNAFE
